@@ -1,19 +1,10 @@
 .cabecalho {
     display: flex;
-    width: 1720px;
-    height: 80px;
-    flex-direction: column;
-    justify-content: center;
+    padding: 1rem 0;
+    justify-content: space-around;
     align-items: center;
 }
-
-.container {
-    display: flex;
-    width: 1600px;
-    padding: 0px 32px;
-    justify-content: space-between;
-    align-items: center;
-}
+ 
 
 .logo {
     display: flex;
@@ -32,6 +23,7 @@
 
 .lista-cabecalho {
     display: flex;
+    margin-right: 15%;
 }
 
 .opcoes__cabecalho {
@@ -51,22 +43,22 @@
     gap: 12px;
 }
 
-.botao__entrar {
-    padding: 10px 18px;
+button {
+    cursor: pointer;
+    border: none;
     border-radius: 8px;
     font-weight: 500;
+    padding: 10px 18px;
+    font-size: 16px;
+}
+
+.botao__entrar {
     background-color: var(--branco);
-    border: 1px solid var(--branco);
     color: var(--cinza-principal);
 
 }
 
 .botao__cadastrar {
-    border-radius: 8px;
     background-color: var(--bordo);
-    border: 1px solid var(--bordo);
-    font-size: 16px;
-    font-weight: 500;
     color: var(--branco);
-    padding: 10px 18px;
 }

@@ -7,10 +7,12 @@
     --bordo: #8E2424;
     --cinza-escura: #3A404E;
     --cinza-principal: #667085;
-    --fonte-principal: "Inter";
+    --fonte-principal: "Inter", sans-serif;
 }
 
 body {
+    width: 100%;
+    height: 100vh;
     background-color: var(--branco);
     font-family: var(--fonte-principal);
     font-size: 16px;
