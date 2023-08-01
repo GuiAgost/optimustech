@@ -1,11 +1,12 @@
 @import url("styles/header.css");
-
+@import url("styles/banner.css");
 
 :root {
     --branco: #FFFFFF;
     --cinza-claro: #F9FAFB;
     --bordo: #8E2424;
     --cinza-escura: #3A404E;
+    --cinza-preta: #101828;
     --cinza-principal: #667085;
     --fonte-principal: "Inter", sans-serif;
 }

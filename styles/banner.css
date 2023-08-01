@@ -1,0 +1,23 @@
+.banner {
+    text-align: center;
+    padding: 6em 0;
+}
+
+.preTitulo {
+    color: var(--bordo);
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.banner__titulo {
+    font-size: 48px;
+    font-weight: 600;
+    color: var(--cinza-preta);
+    margin: 0.5em 0;
+}
+
+.banner_texto {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cinza-principal);
+}
