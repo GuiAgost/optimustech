@@ -19,5 +19,10 @@
 .banner_texto {
     font-size: 20px;
     font-weight: 400;
-    color: var(--cinza-principal);
+    color: var(--cinza-principal);    
+}
+
+p {
+    /* ATENÇÃO: 1em EQUIVALE A 16px!! */
+    padding: 0 20em 0 20em;
 }
