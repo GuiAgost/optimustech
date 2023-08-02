@@ -1,0 +1,31 @@
+.metricas-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 3em;
+    padding: 0 8rem;
+}
+
+.metricas {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.metricas h1 {
+    color: var(--bordo);
+    font-size: 3rem;
+    font-weight: 600;
+  }
+
+  .metricas__title {
+    font-weight: 500;
+    color: var(--cinza-preta);
+    font-size: 18px;
+  }
+
+  .metricas__frase {
+    color: var(--cinza-principal);
+    font-size: 16px;
+    font-weight: 400;
+  }
+

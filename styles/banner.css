@@ -10,7 +10,7 @@
 }
 
 .banner__titulo {
-    font-size: 48px;
+    font-size: 2em;
     font-weight: 600;
     color: var(--cinza-preta);
     margin: 0.5em 0;
