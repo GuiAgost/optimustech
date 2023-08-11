@@ -1,7 +1,7 @@
 .vagas {
     display: flex;
     flex-direction: column;
-    padding: 96px 0px 96px 0px;
+    padding: 6em 6em 6em 6em;
 }
 
 .vagas__container {
@@ -29,4 +29,54 @@
     font-size: 1.25em;
     font-weight: 400;
     margin-top: 4px;
+}
+
+.imagem {
+    display: flex;
+    padding: 4em 0em 4em 0em;
+    justify-content: center;
+}
+
+.vagas__abertas {
+    display: flex;
+    flex-direction: column;
+    gap: 4em;
+}
+
+.vagas__abertas-container {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.vaga__titulo {
+    margin-bottom: 0.5em;
+    color: var(--cinza-preta);
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.vaga__job {
+    display: flex;
+    flex-direction: column;
+    padding: 1.5em;
+    border: 1px solid var(--cinza-clara);
+    border-radius: 1em;
+}
+
+.vaga__job-titulo {
+    color: var(--cinza-preta);
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 2em;
+}
+
+.vaga__job-segundaLinha span{
+    padding-right: 1.5em;
+}
+
+.vaga__segundaLinha {
+    color: var(--cinza-principal);
+    font-weight: 500;
+    font-size: 16px;
 }
