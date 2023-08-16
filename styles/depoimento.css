@@ -1,0 +1,60 @@
+.depoimento {
+    display: flex;
+    padding: 0em 7.5em;
+    flex-direction: column;
+    gap: 2em;
+}
+
+.depoimento__container {
+    display: flex;
+    padding: 4em;
+    flex-direction: column;
+    gap: 2em;
+    background-color: #C3191908;
+}
+
+.citacao {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+}
+
+.citacao__titulo {
+    font-size: 0.875em;
+    font-weight: 600;
+    color: var(--bordo);
+}
+
+.citacao__frase {
+    font-size: 2.25em;
+    font-weight: 500;
+    color: var(--cinza-preta);
+    width: 1088px;
+    text-align: center;
+}
+
+.avatar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+}
+
+.descricao {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.descricao__nome {
+    color: var(--cinza-preta);
+    font-size: 1em;
+    font-weight: 500;
+}
+
+.descricao__tipo {
+    color: var(--cinza-principal);
+    font-size: 0.875em;
+    font-weight: 400;
+}
