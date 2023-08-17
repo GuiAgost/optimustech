@@ -42,10 +42,11 @@
 
 .vagas__abertas {
     display: flex;
+    align-items: center;
     flex-direction: column;
     gap: 4em;
     min-width: 100%;
-    width: 50em; 
+    width: 50em;
 }
 
 .vagas__abertas-container {

@@ -30,8 +30,7 @@
     font-size: 2.25em;
     font-weight: 500;
     color: var(--cinza-preta);
-    width: 1088px;
-    text-align: center;
+    word-break: break-word;
 }
 
 .avatar {
