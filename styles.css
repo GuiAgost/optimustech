@@ -3,6 +3,7 @@
 @import url("styles/secao.css");
 @import url("styles/vagas.css");
 @import url("styles/depoimento.css");
+@import url("styles/rodape.css");
 
 :root {
     --branco: #FFFFFF;

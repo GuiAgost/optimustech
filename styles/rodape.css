@@ -1,0 +1,30 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    padding: 96px 96px;
+    gap: 32px;
+    align-items: center;
+    background: var(--cinza-claro);
+}
+
+.form-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 0px 32px;
+    gap: 40px;
+}
+
+.form-container__descricao {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
+
+.form-container__email {
+    display: flex;
+    /* align-items: flex-start; */
+    gap: 16px;
+}
+
