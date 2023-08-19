@@ -13,7 +13,7 @@
 
 .vagas__container-preTitulo {
     color: var(--bordo);
-    font-size: 14px;
+    font-size: 0.875em;
     font-weight: 500;
 }
 
@@ -29,9 +29,8 @@
     color: var(--cinza-principal);
     font-size: 1.25em;
     font-weight: 400;
-    margin-top: 4px;
-    width: 60%;
-    
+    margin-top: 0.2em;
+    width: 60%;    
 }
 
 .imagem {
@@ -52,7 +51,7 @@
 .vagas__abertas-container {
     display: flex;
     flex-direction: column;
-    gap: 24px;    
+    gap: 1.5em;    
     min-width: 70%;
     width: 50em;
 }
@@ -61,20 +60,20 @@
     margin-bottom: 0.5em;
     color: var(--cinza-preta);
     font-weight: 500;
-    font-size: 20px;    
+    font-size: 1.25em;    
 }
 
 .vaga__job {
     display: flex;
     flex-direction: column;
     padding: 1.5em;
-    border: 1px solid var(--cinza-clara);
+    border: 0.0625em solid var(--cinza-clara);
     border-radius: 1em;
 }
 
 .vaga__job-titulo {
     color: var(--cinza-preta);
-    font-size: 18px;
+    font-size: 1.125;
     font-weight: 500;
     padding-bottom: 2em;
 }
@@ -83,5 +82,5 @@
     padding-right: 1.5em;
     color: var(--cinza-principal);
     font-weight: 500;
-    font-size: 16px;
+    font-size: 1em;
 }

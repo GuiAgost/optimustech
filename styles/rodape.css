@@ -1,8 +1,8 @@
 .form {
     display: flex;
     flex-direction: column;
-    padding: 96px 96px;
-    gap: 32px;
+    padding: 6em 6em;
+    gap: 2em;
     align-items: center;
     background: var(--cinza-claro);
 }
@@ -11,20 +11,57 @@
     display: flex;
     align-items: center;
     flex-direction: column;
-    padding: 0px 32px;
-    gap: 40px;
+    padding: 0em 2em;
+    gap: 2.5em;
 }
 
 .form-container__descricao {
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 1.25em;
     align-items: center;
+}
+
+.form-titulo {
+    text-align: center;
+    color: var(--cinza-preta);
+    font-size: 2.25em;
+    font-weight: 600;
+}
+
+.form-frase {
+    text-align: center;
+    color: var(--cinza-principal);
+    font-size: 1.25em;
+    width: 100%;
 }
 
 .form-container__email {
     display: flex;
-    /* align-items: flex-start; */
-    gap: 16px;
+    gap: 1em;
+}
+
+.form-container__email input {
+    border-radius: 0.5em;
+    border: 0.0625em solid var(--cinza-borda);
+    box-shadow: 0em 0.0625em 0.125em 0em rgba(16, 24, 40, 0.05);
+    padding: 0.900em 1.05em 0.900em 1.2em;
+    gap: 0.5em;
+    width: 25em;
+}
+
+#email::placeholder {
+    color: var(--cinza-principal);
+}
+
+.form-container__email button {
+    background: var(--bordo);
+    color: var(--branco);
+    font-weight: 500;
+    padding: 0.75em 1.25em;
+}
+
+.form p {
+    color: var(--cinza-copyright);
 }
 
