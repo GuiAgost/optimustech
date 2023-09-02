@@ -10,7 +10,7 @@ Portfólio feito no desafio 7DayOfCod com abordagem do curso da Formação HTML 
 | :fire: Desafio     | https://7daysofcode.io/matricula/html-css
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://ayltoninacio.com.br/img/p/32w750.jpg#vitrinedev)
 
 ## Detalhes do projeto
 
