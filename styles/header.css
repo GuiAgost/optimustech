@@ -62,3 +62,22 @@ button {
     background-color: var(--bordo);
     color: var(--branco);
 }
+
+.mudar-tema {
+    background: var(--label-icon);
+    padding: 40px;
+    background-repeat: no-repeat;
+    margin-left: 5%;
+    cursor: pointer;
+}
+
+#btn {
+    display: none;
+}
+
+.dark-mode {
+    --label-icon: url("https://caelum-online-public.s3.amazonaws.com/1369-alura-mais-dark-mode/sol.png");
+    --branco: black;
+    --cinza-claro: rgb(17, 17, 17);
+    /* AQUI COLOCAR A COR DA FONTE PARA MODO ESCURO */
+}
