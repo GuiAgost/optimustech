@@ -30,6 +30,6 @@ O desafio foi desenvolvido as seguintes:
 
 ## Imagem do projeto concluído
 
-  ![image](https://github.com/GuiAgost/optimustech/assets/76624588/71dd3bfb-2a9d-4743-b6bc-c363df334125#vitrinedev)
+![image](https://github.com/GuiAgost/optimustech/assets/76624588/f0ba4cb0-55f6-4006-a11d-3d5b83f3d9fe#vitrinedev)
 
 
