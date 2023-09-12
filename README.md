@@ -5,7 +5,7 @@ Portfólio feito no desafio 7DayOfCod com abordagem do curso da Formação HTML 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **OptimusTech**
-| :label: Tecnologias | HTML e CSS
+| :label: Tecnologias | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30" hedight="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="30" hedight="30"/>
 | :rocket: URL         | https://guiagost.github.io/optimustech/
 | :fire: Desafio     | https://7daysofcode.io/matricula/html-css
 
