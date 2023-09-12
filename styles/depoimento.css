@@ -10,7 +10,7 @@
     padding: 4em;
     flex-direction: column;
     gap: 2em;
-    background-color: #C3191908;
+    background-color: var(--bordo-claro);
 }
 
 .citacao {

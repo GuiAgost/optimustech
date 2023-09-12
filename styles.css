@@ -7,6 +7,7 @@
 
 :root {
     --branco: #FFFFFF;
+    --fonte-branca: #FFFFFF;
     --cinza-claro: #F9FAFB;
     --bordo: #8E2424;
     --cinza-escura: #3A404E;
@@ -15,6 +16,7 @@
     --cinza-clara: #EAECF0;
     --cinza-borda: #D0D5DD;
     --cinza-copyright: #98A2B3;
+    --bordo-claro: #C3191908;
     --fonte-principal: "Inter", sans-serif;
     --label-icon: url("https://caelum-online-public.s3.amazonaws.com/1369-alura-mais-dark-mode/lua.png");
 }

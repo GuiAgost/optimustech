@@ -29,7 +29,6 @@
     font-weight: 600;
 }
 
-/* CORRIGIR */
 .form-frase {
     text-align: center;
     color: var(--cinza-principal);
@@ -58,7 +57,7 @@
 
 .form-container__email button {
     background: var(--bordo);
-    color: var(--branco);
+    color: var(--fonte-branca);
     font-weight: 500;
     padding: 0.75em 1.25em;
 }
