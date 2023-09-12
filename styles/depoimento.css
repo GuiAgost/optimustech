@@ -1,6 +1,6 @@
 .depoimento {
     display: flex;
-    padding: 0em 7.5em 6em;
+    padding: 0em 6em 6em;
     flex-direction: column;
     gap: 2em;
 }
@@ -26,12 +26,14 @@
     color: var(--bordo);
 }
 
+/* CORRIGIR */
 .citacao__frase {
     font-size: 2.25em;
     font-weight: 500;
     color: var(--cinza-preta);
     width: 100%;
     text-align: center;
+    padding: 0%;
 }
 
 .avatar {

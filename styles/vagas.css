@@ -30,7 +30,8 @@
     font-size: 1.25em;
     font-weight: 400;
     margin-top: 0.2em;
-    width: 60%;    
+    white-space: nowrap;
+    padding: 0%;
 }
 
 .imagem {
