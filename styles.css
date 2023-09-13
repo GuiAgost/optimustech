@@ -19,6 +19,7 @@
     --bordo-claro: #C3191908;
     --fonte-principal: "Inter", sans-serif;
     --label-icon: url("https://caelum-online-public.s3.amazonaws.com/1369-alura-mais-dark-mode/lua.png");
+    --sombra: rgba(0, 0, 0, 0.35);
 }
 
 body {

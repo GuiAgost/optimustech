@@ -78,10 +78,10 @@ button {
 .dark-mode {
     --label-icon: url("https://caelum-online-public.s3.amazonaws.com/1369-alura-mais-dark-mode/sol.png");
     --branco: #181A1B;
-    /* AQUI COLOCAR A COR DA FONTE PARA MODO ESCURO */
     --cinza-escura: #BDB7AF;
     --cinza-principal: #9E9589;
     --cinza-preta: #D6D3CD;
     --cinza-claro: #1B1D1E;
     --bordo-claro: #1C1A1B;
+    --sombra: var(--cinza-principal);
 }

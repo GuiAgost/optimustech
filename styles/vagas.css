@@ -38,6 +38,11 @@
     display: flex;
     padding: 4em 0em 4em 0em;
     justify-content: center;
+
+}
+
+.imagem img {
+    box-shadow: 0 0 20px 10px var(--sombra);
 }
 
 .vagas__abertas {
