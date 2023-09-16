@@ -11,7 +11,7 @@ Portfólio feito no desafio 7DayOfCod com abordagem do curso da Formação HTML 
 
 ## Detalhes do projeto
 
-Participei no projeto 7 Days proposto pela instrutora https://github.com/giovannamoeller. O desafio é desenvolver uma página real a partir de um layout no Figma usando o conhecimento de HTML e CSS durante uma semana para aprofundar os meus estudos e praticar.
+Participei no projeto 7 Days proposto pela instrutora [Giovanna Moeller](https://github.com/giovannamoeller). O desafio é desenvolver uma página real a partir de um layout no Figma usando o conhecimento de HTML e CSS durante uma semana para aprofundar os meus estudos e praticar.
 
 O desafio foi desenvolvido as seguintes:
 
